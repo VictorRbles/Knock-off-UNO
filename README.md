@@ -6,6 +6,7 @@ This is a cheaply made knock off of the UNO card game. The game does not include
   * An AI that can play the game with you also known as an NPC, since if you are like me no one wants to play this game with you specially since it all has to be done from       the console and on a singular device and could instead play the real deal with you.
   * Memory allocation for a variety of variables and arrays.
   * A dynamic list of cards
+
 And I think that is it at least for now. I could also try to make difficulties for the AI. Maybe then it will be worth of calling rip-off.
 
 You may be wordering why is it a cheap knock off, well the answer to that is easy. It is because I did not spend a single cent to make it, but most important of it all it does not have an interface. Making it cheap in replayability, I honestly was going to say I did not spend much time on this kind of like I did on the Alien Invasion, but that would have been lying. I am still lazy, do include that.
