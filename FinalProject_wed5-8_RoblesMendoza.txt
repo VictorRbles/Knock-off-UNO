@@ -1,0 +1,31 @@
+Name: Victor Robles
+                                    UNO ripoff on C: Instructions
+
+Howdy,
+
+The Instructions on how to play are as follows:
+1.- Your name has a limit of 127 characters, if you trying going past it, it would register after the 127th character
+
+2.- I would recommend making the console as big as possible since the hands of the players get displayed in order
+meaning player one hand's gets display before all of them, then comes the second player and so on.
+
+3.- Minimum amount of player is 2 and maximum is 14.
+
+4.- Much like an uno game the card to start the game comes from the deck and not from the players. In this case, it
+is the first card of the deck.
+
+5.- You will always be given the range of the numbers of cards you can use, does not mean you can use any of them,
+you have to look at which one you can actually use in the ocassion.
+
+6.- When using special cards OR or AND you will be prompted with a questions about which card do you want to pair it
+with, if you enter a number that is not listed as a possibility, the turn will "restart" which just means it would
+still be your turn, but you will no longer be playing the special card you were. You can always just pick the special
+card again. I added this since those two card are the only that require more than one step to use and you may want
+to backup.
+
+7.- You can always at anytime grab a card from the deck altough this wastes your turn. 
+
+8.- If there are 2 or more players with the same cards first player to be found with the fewest amount of cards wins.
+
+9.- Please make sure to read everything carefully since the program most of the time does not tell you the input
+was incorrect, but rather just repeat the prompt for you to input it again.
